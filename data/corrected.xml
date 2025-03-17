@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <segments>
+        <segment>
+          <id>40152</id>
+          <start>0</start>
+          <stop>99</stop>
+        </segment>
+      </segments>
+      <owner>
+        <username>TrainingData</username>
+        <email/>
+      </owner>
+      
+      <labels>
+        <label>
+          <name>face</name>
+          <color>#24b353</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-11-02 19:01:47.834062+00:00</dumped>
+  </meta>
+  <image id="1" name="images/1.jpg" width="2448" height="3264">
+    <box label="face" source="manual" occluded="0" xtl="610.53" ytl="1274.55" xbr="1716.90" ybr="2746.81" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="images/3.jpg" width="1936" height="2592">
+    <box label="face" source="manual" occluded="0" xtl="592.29" ytl="766.10" xbr="1232.29" ybr="1756.50" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="images/4.jpg" width="1980" height="2640">
+    <box label="face" source="manual" occluded="0" xtl="284.70" ytl="868.50" xbr="1391.70" ybr="2522.29" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="images/9.jpg" width="2448" height="3264">
+    <box label="face" source="manual" occluded="0" xtl="533.68" ytl="455.80" xbr="1682.12" ybr="2024.40" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="images/10.jpg" width="2448" height="3264">
+    <box label="face" source="manual" occluded="0" xtl="707.24" ytl="955.50" xbr="1642.69" ybr="2453.60" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="images/12.jpg" width="2448" height="3264">
+    <box label="face" source="manual" occluded="0" xtl="940.76" ytl="785.40" xbr="1980.36" ybr="2306.17" rotation="13.50" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="images/23.jpg" width="3456" height="4608">
+    <box label="face" source="manual" occluded="0" xtl="1196.30" ytl="1296.20" xbr="2423.81" ybr="3002.86" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="images/28.jpg" width="2448" height="3264">
+    <box label="face" source="manual" occluded="0" xtl="775.63" ytl="459.90" xbr="1858.44" ybr="2134.20" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="images/43.jpg" width="2320" height="3088">
+    <box label="face" source="manual" occluded="0" xtl="855.38" ytl="444.20" xbr="1759.10" ybr="1805.74" z_order="0">
+    </box>
+  </image>
+</annotations>
+
+
