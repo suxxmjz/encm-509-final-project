@@ -1,0 +1,10 @@
+id,image,label
+1,images/1.jpg,labels/1.png
+3,images/3.jpg,labels/3.png
+4,images/4.jpg,labels/4.png
+9,images/9.jpg,labels/9.png
+10,images/10.jpg,labels/10.png
+12,images/12.jpg,labels/12.png
+23,images/23.jpg,labels/23.png
+28,images/28.jpg,labels/28.png
+43,images/43.jpg,labels/43.png
